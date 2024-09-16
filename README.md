@@ -9,7 +9,9 @@ Web application that replicates the Home page of x.com or twitter.com
 
 ## OUTPUT
 
-![OUTPUT](https://github.com/user-attachments/assets/633a636d-89ac-4051-85cb-1b07ba297b26)
+![x-clone-op1](https://github.com/user-attachments/assets/6ec4abab-c2f1-4abb-963e-9bde0568cfac)
 
-![OUTPUT](https://github.com/user-attachments/assets/0be7d104-7cc7-4c72-a886-b3504dfe8790)
+
+![x-clone-op-2](https://github.com/user-attachments/assets/aec08b1c-39a0-4c1f-8523-91b89c956a4c)
+
 
