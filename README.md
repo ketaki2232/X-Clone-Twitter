@@ -13,5 +13,3 @@ Web application that replicates the Home page of x.com or twitter.com
 
 
 ![x-clone-op-2](https://github.com/user-attachments/assets/aec08b1c-39a0-4c1f-8523-91b89c956a4c)
-
-
